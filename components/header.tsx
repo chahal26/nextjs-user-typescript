@@ -12,7 +12,7 @@ const Header: NextPage = () => {
             </Head>
             <Navbar>
                 <Link href="/">
-                    <Brand >NextJs Users TS test</Brand>
+                    <Brand >NextJs Users TS</Brand>
                 </Link>
             </Navbar >
         </>
